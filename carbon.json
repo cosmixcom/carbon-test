@@ -1,3 +1,6 @@
 {
-  "pages": ["test"]
+  "pages": [{
+    "name": "Test Page",
+    "doc": "test"
+  }]
 }
